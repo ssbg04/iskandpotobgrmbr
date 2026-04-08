@@ -27,6 +27,14 @@ Install dependencies via pip:
 ```bash
 pip install -r requirements.txt
 
+```
+
+----
+
+Usage:
+
+```bash
+
 # Crop a single image
 python crop_white_background.py photo/image1.jpg
 
